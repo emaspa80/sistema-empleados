@@ -1,0 +1,5 @@
+ejemplo
+**/venv  si tuviera un entorno virtual con ese nombre (**carpeta con subcarpetas) 
+.vscode si lo tuviera - para que se ejecute automaticamente el entorno virtual
+uploads
+__pycache__
